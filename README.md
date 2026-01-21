@@ -34,3 +34,5 @@ This project uses Python’s eval() function, which is not recommended for produ
 👤 Author
 
 Created by JP
+
+<img width="298" height="229" alt="Στιγμιότυπο οθόνης 2026-01-14 190635" src="https://github.com/user-attachments/assets/2d035123-ba8c-4983-8d71-850f736c7733" />
